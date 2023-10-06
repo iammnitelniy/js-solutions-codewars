@@ -1,2 +1,1 @@
-# CodeWars-6-kyu-Soluitions
-Created by https://github.com/Automedon
+This is rep for my Codewars and Stepik solutions
